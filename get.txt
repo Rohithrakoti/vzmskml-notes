@@ -1,0 +1,43 @@
+1  pwd
+    2  python --version
+    3  pip install python
+    4  clear
+    5  touch app.py
+    6  sudo yum install -y ruby
+    7  python --version
+    8  clear
+    9  git clone https://github.com/Vzmskml/eb-tomcat-snakes.git
+   10  dir
+   11  ls -al
+   12  cd eb-tomcat-snakes/
+   13  ls -al
+   14  rm -rf .git
+   15  ls -al
+   16  git init
+   17  ls -al
+   18  git remote -v
+   19  git remote add orgin https://git-codecommit.us-east-1.amazonaws.com/v1/repos/vzmskmlrepo-1
+   20  git remote -v
+21  git status
+   22  git add . && git commit -m "first commit"
+   24  git push orgin master
+
+*******************
+ 1  ls
+    2  cd downloads
+    3  cd downloads/
+    4  cd Downloads/
+    5  ls
+    6  ls
+    7  clear
+    8  cd Downloads/
+    9  cd ..
+   10  cd Downloads/
+   11  git staus
+   12  git init
+   13  git branch
+   14  git clone https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/rohith-rep
+   15  git status
+   16  history
+
+   25  history
